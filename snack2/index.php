@@ -18,10 +18,10 @@ $age = $_GET['age'];
         <input type="text" id="name" name="name"><br><br>
         
         <label for="mail">Mail:</label>
-        <input type="email" id="mail" name="mail"><br><br>
+        <input type="text" id="mail" name="mail"><br><br>
         
         <label for="age">Age:</label>
-        <input type="number" id="age" name="age"><br><br>
+        <input type="text" id="age" name="age"><br><br>
         
         <button type="submit">Send</button>
     </form>
